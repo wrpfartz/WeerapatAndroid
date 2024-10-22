@@ -1,0 +1,20 @@
+<resources>
+    <!-- API Endpoints -->
+    <string name="root_url">http://10.13.4.230:4000</string>
+    <string name="app_name">WeerapatAndroid</string>
+    <string name="login_url">/api/login</string>
+    <string name="profile_url">/api/profile/</string>
+    <string name="listcar">/api/viewcarr</string>
+    <string name="viewcar">/api/viewcarr/</string>
+    <string name="rentcargo">/api/rentcar</string>
+
+
+    <string name="customer_image_url">/api/customer/image/</string>
+    <string name="car_image_url">/api/car/image/</string>
+
+    <string name="title_home">หน้าหลัก</string>
+    <string name="title_dashboard">ประวัติการเช้า</string>
+    <string name="title_notifications">บัญชีผู้ใช้งาน</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
